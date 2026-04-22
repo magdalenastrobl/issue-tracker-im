@@ -1,2 +1,3 @@
-# issue-tracker-im
-Kurs-Repository für Software Engineering im SS2026!
+# Issue-Tracker-App
+
+Simple App für das erfassen/Ändern/... von Issues mit HIlfe von Phyton
